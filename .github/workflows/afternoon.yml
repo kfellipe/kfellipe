@@ -1,0 +1,14 @@
+name: Afternoon
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  
+  workflow_dispatch:
+  
+jobs:
+  update:
+    runs-on: ubuntu-leatest
+    steps:
+      - name: Updating README.md - Afternoon
+        run: bash update.sh "Afternoon"
