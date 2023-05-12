@@ -1,3 +1,4 @@
+# Good Morning!
 # Hi! <br>My name is <u><i>Kauã Fellipe</i></u>
 <hr>
 
@@ -56,9 +57,7 @@ I have knowledges on Infrastructure, DevOps, CI/CD, Automation, Programmation, W
   
 </div>
 
-<hr>
-
-### Recent Activity
+##
 
 ![Snake animation](https://github.com/kfellipe/kfellipe/blob/output/github-contribution-grid-snake.svg)
 
