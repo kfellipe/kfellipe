@@ -1,0 +1,19 @@
+name: Morning
+on:
+ # schedule:
+ #   - cron: "0 6 * * *"
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+    
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Updating time on time.txt
+        run: echo "Morning" > time.txt ; git config --global user.name "kfellipe" ; git config --global user.email "kauazeta87@gmail.com" ; git add . ; git commit -m "Updating time.txt" ; git push
