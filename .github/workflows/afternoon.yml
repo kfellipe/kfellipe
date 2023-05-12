@@ -10,5 +10,6 @@ jobs:
   update:
     runs-on: ubuntu-leatest
     steps:
+      - uses: actions/checkout@v3
       - name: Updating README.md - Afternoon
         run: bash update.sh "Afternoon"
