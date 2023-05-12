@@ -11,7 +11,7 @@ git config --global user.email "kauazeta87@gmail.com"
 
 # Making the file
 
-cat <<EOF>README.md.teste
+cat <<EOF>README.md
 # Good $time!
 # Hi! <br>My name is <u><i>Kauã Fellipe</i></u>
 <hr>
