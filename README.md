@@ -1,17 +1,62 @@
-# Good Evening!
-# Hi! <br>My name is <u><i>Kauã Fellipe</i></u>
-<hr>
+# Kauã Fellipe
 
-### <i>About me</i>
+Software Developer • Infrastructure Engineer • SENAI Instructor • WorldSkills Expert
 
-I'm 19 year old and i'm a technology enthusiast. Currently(12/05/2023), i'm training for the national phase of the worldskills 2023 in the modality IT Network Systems Administration representing Federal District, i'm training since 23/02/2022.<br>
-I have knowledges on Infrastructure, DevOps, CI/CD, Automation, Programmation, Web Development, Linux/Windows Environment, Network Protocols and Network Security.<br>
+Passionate about software engineering, cloud computing, networking and infrastructure automation.
 
-### *Knowledges*
+## About Me
 
-<div>
+Hello! I'm **Kauã Fellipe**, a Software Developer, Infrastructure Specialist and Instructor at **SENAI**, passionate about designing solutions that combine software development, cloud computing, networking and infrastructure.
 
-#### Development
+My interest in technology began at the age of 13 when I had my first experience repairing and configuring computers. What started as curiosity quickly became a commitment to understanding how technology works and how it can be used to solve real-world problems.
+
+## Professional Journey
+
+### Software Development
+
+At the age of 15, I started learning **Python**, developing terminal-based applications and small automation tools. Shortly afterward, I expanded my knowledge to **PHP**, which naturally introduced me to **HTML**, **CSS** and **JavaScript**.
+
+As I explored web development, I also became interested in **UI/UX Design**, visual identity and user experience, understanding the importance of building software that is both functional and intuitive.
+
+### Infrastructure and Networking
+
+At 17, I joined the **WorldSkills Brazil** training program in the **IT Network Systems Administration** category.
+
+This experience provided intensive training in areas including:
+
+- Linux and Windows Server Administration
+- Enterprise Networking
+- Virtualization
+- Cloud Computing
+- Cybersecurity
+- Infrastructure Automation
+- DevOps
+
+Participating in WorldSkills allowed me to work alongside outstanding professionals from across Brazil and played a significant role in shaping my technical and professional development.
+
+### Teaching and Mentoring
+
+After achieving **second place** in the Brazilian National Competition, I was invited to join **SENAI** as an **Instructor** and **WorldSkills Expert (Evaluator)**.
+
+Today, I teach courses focused on infrastructure, networking and cloud technologies while also preparing competitors for future WorldSkills competitions. Helping students develop their technical skills has become one of the most rewarding aspects of my career.
+
+## Current Activities
+
+Alongside my work at SENAI, I founded **Marte IT Solutions**, where I develop websites, business systems and digital solutions tailored to companies seeking to strengthen their digital presence and optimize their operations.
+
+My professional interests include:
+
+- Software Development
+- Cloud Computing
+- Infrastructure Engineering
+- DevOps
+- Network Engineering
+- Cybersecurity
+- Automation
+
+## Skills
+
+### Development
 
 <img align="center" alt="JS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,12 +64,8 @@ I have knowledges on Infrastructure, DevOps, CI/CD, Automation, Programmation, W
   <img align="center" alt="Python-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="vscode-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
 
-</div>
-<div>
-
-#### Infrastructure
+### Infrastructure
   <img align="center" alt="linux-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="ubuntu-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="debian-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
@@ -34,30 +75,26 @@ I have knowledges on Infrastructure, DevOps, CI/CD, Automation, Programmation, W
   <img align="center" alt="ansible-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
   <img align="center" alt="terraform-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
 
-</div>
-
-<div>
-
-#### Services
+### Services
 
   <img align="center" alt="apache-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="nginx-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="bash-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="composer-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
   <img align="center" alt="jenkins-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="mysql-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="mysql-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="nodejs-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="ssh-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
   <img align="center" alt="sqlite-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 
-</div>
+## Contact
 
+- Site: <a href="https://marteitsolutions.com.br">Marte IT Solutions</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/kauã-fellipe-6a6372211/">Perfil</a>
+- Email: <a href="mailto:kaua.fellipe187@gmail.com">kaua.fellipe187@gmail.com</a>
 
-<div style="display: inline_block"><br>
-  
-</div>
+## Philosophy
 
-##
+Technology is an ever-evolving field, and continuous learning has always been one of my core values.
 
-![Snake animation](https://github.com/kfellipe/kfellipe/blob/output/github-contribution-grid-snake.svg)
-
+I believe that combining software engineering, infrastructure and education is the best way to create meaningful solutions and contribute to the growth of both people and organizations.
