@@ -94,7 +94,7 @@ My professional interests include:
 ## Contact
 
 - Site: <a href="https://marteitsolutions.com.br">Marte IT Solutions</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/kauã-fellipe-6a6372211/">Perfil</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/kauã-fellipe-6a6372211/">Kauã Fellipe</a>
 - Email: <a href="mailto:kaua.fellipe187@gmail.com">kaua.fellipe187@gmail.com</a>
 
 ## Philosophy
