@@ -67,27 +67,29 @@ My professional interests include:
 </div>
 
 ### Infrastructure
-  <img align="center" alt="linux-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="ubuntu-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="debian-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="unix-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
-  <img align="center" alt="kubernetes-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Docker-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="ansible-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
-  <img align="center" alt="terraform-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+<div>
+<img align="center" alt="linux-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="ubuntu-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img align="center" alt="debian-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+<img align="center" alt="unix-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
+<img align="center" alt="kubernetes-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img align="center" alt="Docker-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="ansible-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+<img align="center" alt="terraform-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+</div>
 
 ### Services
-
-  <img align="center" alt="apache-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="nginx-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-  <img align="center" alt="bash-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="composer-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
-  <img align="center" alt="jenkins-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="mysql-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="nodejs-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="ssh-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
-  <img align="center" alt="sqlite-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-
+<div>
+<img align="center" alt="apache-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+<img align="center" alt="nginx-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+<img align="center" alt="bash-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img align="center" alt="composer-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+<img align="center" alt="jenkins-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+<img align="center" alt="mysql-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+<img align="center" alt="nodejs-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+<img align="center" alt="ssh-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
+<img align="center" alt="sqlite-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+</div>
 ## Contact
 
 - Site: <a href="https://marteitsolutions.com.br">Marte IT Solutions</a>
